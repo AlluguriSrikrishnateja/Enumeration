@@ -30,7 +30,7 @@ Google Hacking:
 
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
-site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
+site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:bookmyshow.com" would search for pages that are on the example.com domain.
 
 
 
@@ -63,11 +63,14 @@ intitle: This operator allows you to search for pages that contain specific text
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/804eb155-22c1-476a-8d88-9d4df5fcbc37" />
 
 
-link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+link: This operator allows you to search for pages that link to a specific URL. For example, "link:bookmyshow.com" would search for pages that link to the example.com domain.
+### Output:
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/5c2c1d03-f15e-4c53-8734-f8b7554542a3" />
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+### Output:
 
-<img width="941" alt="image" src="https://github.com/user-attachments/assets/5c2c1d03-f15e-4c53-8734-f8b7554542a3" />
+
 
 
 
