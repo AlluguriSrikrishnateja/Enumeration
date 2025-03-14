@@ -31,23 +31,45 @@ Google Hacking:
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
+
+
+
+![Screenshot 2025-03-14 143055](https://github.com/user-attachments/assets/0b611f92-cbab-48e4-8447-ee067cc45fd9)
+
+
 Following searches for all the sites that is in the domain yahoo.com
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/d92e5fbe-c150-4601-b828-cd8ee90e95c4" />
+
+
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/2154ecce-be6a-439b-9a8f-9b2c84df5bdc" />
+
+
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/c60b4ea6-053c-45f2-b4e5-07d1e12a1135" />
+
+
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/804eb155-22c1-476a-8d88-9d4df5fcbc37" />
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/5c2c1d03-f15e-4c53-8734-f8b7554542a3" />
+
+
 
  
 #DNS Enumeration
